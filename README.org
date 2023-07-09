@@ -1,0 +1,10 @@
+* Denpencias
+
++ opencv-python
++ pytesseract
++ dotenv()
++ python-telegram-bot
+
+* Uso
+
+crie um arquivo .env  coloque as suas credencias
